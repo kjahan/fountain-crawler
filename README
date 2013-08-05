@@ -2,4 +2,9 @@ Fountain Crawler
 ================
 
 General Description:
-This project is a Python crawler. I have developed this project in order to search Flickr website and find new drinking fountains added to a city along with their locations. This idea is very useful for crawling and indexing a city and can be applied to other areas as well.
+This project is a Python crawler for Flickr website. I developed this project in order to mine Flickr website and search for a text query such as "drinking fountains" to find all photos which have mentioned the text query as meta-dtaa and have geo-location. This idea is useful for crawling and indexing different hotspots in a city. Please check the following links for a few examples:
+
+http://www.kazemjahanbakhsh.com/codes/fountain.html
+http://www.kazemjahanbakhsh.com/codes/geocrawler.html
+
+If you have any questions, contact me @ k.jahanbakhsh@gmil.com .
